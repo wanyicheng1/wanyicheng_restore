@@ -1,0 +1,5 @@
+﻿  second.c
+c:\users\wanyicheng\desktop\matalab\test\test\second.c(11): warning C4477: “scanf_s”: 格式字符串“%5f”需要类型“float *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\wanyicheng\desktop\matalab\test\test\second.c(25): warning C4477: “printf”: 格式字符串“%5f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+c:\users\wanyicheng\desktop\matalab\test\test\second.c(10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  test2.vcxproj -> C:\Users\wanyicheng\Desktop\matalab\test\Debug\test2.exe
