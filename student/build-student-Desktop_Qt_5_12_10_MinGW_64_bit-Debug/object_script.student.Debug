@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/student.o
+debug/admin.o
+debug/admin_change.o
+debug/dele.o
+debug/moc_mainwindow.o
+debug/moc_student.o
+debug/moc_admin.o
+debug/moc_admin_change.o
+debug/moc_dele.o
